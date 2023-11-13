@@ -1,0 +1,15 @@
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.csprojAssemblyReference.cache
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\MainWindow.g.cs
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\App.g.cs
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator_MarkupCompile.cache
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator_MarkupCompile.lref
+D:\ZCoding\FMS_Simulator\FMS_Simulator\bin\Debug\FMS_Simulator.exe.config
+D:\ZCoding\FMS_Simulator\FMS_Simulator\bin\Debug\FMS_Simulator.exe
+D:\ZCoding\FMS_Simulator\FMS_Simulator\bin\Debug\FMS_Simulator.pdb
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\MainWindow.baml
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.g.resources
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.Properties.Resources.resources
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.csproj.GenerateResource.cache
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.csproj.CoreCompileInputs.cache
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.exe
+D:\ZCoding\FMS_Simulator\FMS_Simulator\obj\Debug\FMS_Simulator.pdb
